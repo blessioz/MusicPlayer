@@ -11,6 +11,7 @@ Dark mode support
 And more
 ### [+] Screenshot
 ![screenshot](https://github.com/blessioz/Projects-assits/blob/main/image.png)
+![screenshot](https://github.com/blessioz/Projects-assits/blob/main/Screenshot_20230301_144132.png)
 
 ### Installation
 To install the app on your Android device, follow these steps:
