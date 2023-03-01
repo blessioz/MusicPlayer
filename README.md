@@ -1,6 +1,6 @@
 ### MusicPlayer
 ### Description
-This is an Android music player app that allows users to listen to their favorite songs on their mobile devices. The app features a simple and intuitive interface that makes it easy to search, browse, and play songs.
+This is an Android music player app built by Ashish BK, an undergraduate student of SOE POkhara University. This is a college Progect of Android Apps Development that allows users to listen to their favorite songs on their mobile devices. The app features a simple and intuitive interface that makes it easy to search, browse, and play songs which are in your devices.
 
 ### Features
 Browse and play songs of your device
