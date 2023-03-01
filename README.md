@@ -4,11 +4,9 @@ This is an Android music player app that allows users to listen to their favorit
 
 ### Features
 Browse and play songs of your device
-
 Play songs in the background
-
-Dark mode support
 And more
+
 ### [+] Screenshot
 ![screenshot](https://github.com/blessioz/Projects-assits/blob/main/Screenshot_20230301_144132.png)
 ![screenshot2](https://github.com/blessioz/Projects-assits/blob/main/Screenshot_20230301_144829555.png)
