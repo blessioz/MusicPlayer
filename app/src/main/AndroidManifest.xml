@@ -17,7 +17,7 @@
         <activity
             android:name=".MusicPlayerActivity"
             android:exported="false"
-
+            android:parentActivityName=".MainActivity"
             >
         </activity>
 
