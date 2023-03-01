@@ -1,5 +1,5 @@
 # MusicPlayer
-###Description
+# Description
 This is an Android music player app that allows users to listen to their favorite songs on their mobile devices. The app features a simple and intuitive interface that makes it easy to search, browse, and play songs.
 
 #Features
